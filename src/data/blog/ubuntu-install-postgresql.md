@@ -1,7 +1,7 @@
 ---
 author: chen
 pubDatetime: 2025-07-08T15:50:00Z
-modDatetime: 2025-07-08T15:50:00Z.934Z
+modDatetime: 2025-07-08T15:50:00.934Z
 title: ubuntu 安装 postgresql
 slug: ubuntu-install-postgresql
 featured: true
